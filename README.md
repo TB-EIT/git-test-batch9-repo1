@@ -35,11 +35,19 @@ Markdown supports several subheading levels for its documents.
 6. using
 7. numbers
 
-
-
 1. Or
 1. by
 1. using
 1. '1.'
 1. for
 1. everything
+
+## Test Formatting
+
+Markdown Supports a number of text formatting options:
+* **Bold Text**
+* *Italics*
+* <u>Underscored</u>
+* <s>Strikethrough</s>
+* Codeblocks:
+  * ```python3 -m pip install pandas```
