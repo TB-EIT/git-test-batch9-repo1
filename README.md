@@ -51,3 +51,9 @@ Markdown Supports a number of text formatting options:
 * <s>Strikethrough</s>
 * Codeblocks:
   * ```python3 -m pip install pandas```
+
+## Links
+Markdown supports various links:
+* Exteranl link - [Google](https://google.com)
+* Local link to a [file](./dir/sample_file.py)
+* Anchor Links - [Subheading Link](#subheading-level-2)
