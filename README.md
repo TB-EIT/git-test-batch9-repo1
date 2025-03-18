@@ -1,4 +1,4 @@
-# git-test-batch9-repo1
+# Git and Markdown Demo Repo
 This is just a simple Repo to demonstrate some git and Markdown basics to some students.
 
 ## Subheading level 2
