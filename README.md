@@ -5,7 +5,7 @@ This is just a simple Repo to demonstrate some git and Markdown basics to some s
 ### Subheading level 3
 #### Subheading level 4
 
-Markdown supports several subheading levels for its documents.
+Markdown supports several subheading levels for its documents. By using a variable number of '#' symbols.
 
 ## Lists
 
