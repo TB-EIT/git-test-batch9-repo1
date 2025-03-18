@@ -12,8 +12,7 @@ Markdown supports several subheading levels for its documents. By using a variab
 ### Unordered Lists
 
 * Markdown supports unordered lists
-* by using
-* star symbol
+* by using star symbol
 
 - or using
 - dash symbol
