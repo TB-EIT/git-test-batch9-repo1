@@ -11,36 +11,19 @@ Markdown supports several subheading levels for its documents.
 
 ### Unordered Lists
 
-* Markdown
-* supports
-* unordered
-* lists
-* by
-* using
-* star
-* symbol
+* Markdown supports unordered lists
+* by using
+* star symbol
 
-- or
-- using
-- dash
-- symbol
+- or using
+- dash symbol
 
 ### Ordered Lists
 
-1. Markdown
-2. supports
-3. ordered
-4. lists
-5. by
-6. using
-7. numbers
+1. Markdown supports ordered lists
+2. by using numbers
 
-1. Or
-1. by
-1. using
-1. '1.'
-1. for
-1. everything
+1. Or by using '1.' for everything
 
 ## Test Formatting
 
