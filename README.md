@@ -57,3 +57,8 @@ Markdown supports various links:
 * Exteranl link - [Google](https://google.com)
 * Local link to a [file](./dir/sample_file.py)
 * Anchor Links - [Subheading Link](#subheading-level-2)
+
+### Images
+
+Markdown can empbed images into your documents by suing links
+* ![Cat Image](https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg)
