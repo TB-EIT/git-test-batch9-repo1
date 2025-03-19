@@ -48,7 +48,9 @@ Markdown can empbed images into your documents by suing links
 ## Tables
 
 Markdown supports tables.
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Row      | Cell 2   | Cell 3   |
-| Row 2    | Cell 5   | Cell 6   |
+| Column 1 | Column 2      | Column 3      |
+| -------- | ------------- | ------------- |
+| **Row**  | Cell 2        | Cell 3        |
+| *Row 2*  | Cell 5        | <u>Cell 6</u> |
+| Row 3    | <s>Cell 8</s> | Cell 9        |
+
