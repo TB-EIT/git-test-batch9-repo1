@@ -44,3 +44,13 @@ Markdown supports various links:
  
 Markdown can empbed images into your documents by suing links
 * ![Cat Image](https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg)
+
+## Tables
+
+Markdown supports tables.
+| Column 1 | Column 2      | Column 3      |
+| -------- | ------------- | ------------- |
+| **Row**  | Cell 2        | Cell 3        |
+| *Row 2*  | Cell 5        | <u>Cell 6</u> |
+| Row 3    | <s>Cell 8</s> | Cell 9        |
+
